@@ -24,8 +24,15 @@ p{
   color: white;
 }
 
-/* Add a hover effect if you want */
-.fa:hover {
+.fab:hover {
   opacity: 0.7;
 }
 
+.developer{
+  color: rgba(128,128,128,0.75);
+  text-decoration: none;
+}
+
+.developer:hover{
+  opacity: 0.7;
+}
