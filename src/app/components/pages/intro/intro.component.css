@@ -1,5 +1,5 @@
 h1{
-  padding-top: 2em;
+  padding-top: 1em;
   color:#2b252c;
   font-size: 3em;
 }
@@ -8,6 +8,7 @@ p{
   font-size: x-large;
   line-height: 1.5;
   padding: 1em;
+  padding-bottom: 0em;
 }
 
 .logo_for_park{
