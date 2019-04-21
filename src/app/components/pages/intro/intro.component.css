@@ -1,0 +1,22 @@
+h1{
+  padding-top: 2em;
+  color:#2b252c;
+  font-size: 3em;
+}
+
+p{
+  font-size: x-large;
+  line-height: 1.5;
+  padding: 1em;
+}
+
+.logo_for_park{
+  width: 250px;
+  height: 250px;
+  margin: 1em;
+}
+
+.team{
+  width: 90%;
+  padding: 2em;
+}

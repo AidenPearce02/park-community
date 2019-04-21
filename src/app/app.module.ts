@@ -10,6 +10,7 @@ import { FeedComponent } from './components/pages/feed/feed.component';
 import { NotFoundComponent } from './components/pages/not-found/not-found.component';
 import { AboutComponent } from './components/pages/about/about.component';
 import { ContactComponent } from './components/pages/contact/contact.component';
+import { ReleaseAndPlanComponent } from './components/pages/release-and-plan/release-and-plan.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { ContactComponent } from './components/pages/contact/contact.component';
     FeedComponent,
     NotFoundComponent,
     AboutComponent,
-    ContactComponent
+    ContactComponent,
+    ReleaseAndPlanComponent
   ],
   imports: [
     BrowserModule,
