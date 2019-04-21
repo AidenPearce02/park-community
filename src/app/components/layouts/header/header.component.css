@@ -9,7 +9,13 @@
   padding: 10px;
 }
 
+.header h1{
+  font-size: 3em;
+  padding: 0.5em;
+}
+
 .header a {
+  font-size: larger;
   color: #fff;
   text-decoration: none;
 }

@@ -6,6 +6,15 @@
   color: rgba(128,128,128,0.75);
 }
 
+h3{
+  padding-top: 1em;
+  font-size: xx-large;
+}
+
+p{
+  font-size: larger;
+}
+
 .fab {
   padding: 20px;
   font-size: 30px;
@@ -15,14 +24,8 @@
   color: white;
 }
 
-.fa-steam{
-
-}
 /* Add a hover effect if you want */
 .fa:hover {
   opacity: 0.7;
 }
 
-/* Set a specific color for each brand */
-
-/* Facebook */

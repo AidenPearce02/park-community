@@ -7,6 +7,9 @@ import { HeaderComponent } from './components/layouts/header/header.component';
 import { FooterComponent } from './components/layouts/footer/footer.component';
 import { IntroComponent } from './components/pages/intro/intro.component';
 import { FeedComponent } from './components/pages/feed/feed.component';
+import { NotFoundComponent } from './components/pages/not-found/not-found.component';
+import { AboutComponent } from './components/pages/about/about.component';
+import { ContactComponent } from './components/pages/contact/contact.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +17,10 @@ import { FeedComponent } from './components/pages/feed/feed.component';
     HeaderComponent,
     FooterComponent,
     IntroComponent,
-    FeedComponent
+    FeedComponent,
+    NotFoundComponent,
+    AboutComponent,
+    ContactComponent
   ],
   imports: [
     BrowserModule,
