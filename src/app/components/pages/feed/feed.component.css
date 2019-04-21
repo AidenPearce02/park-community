@@ -1,0 +1,27 @@
+h1{
+  padding: 1em;
+  color:#2b252c;
+  font-size: 3em;
+  text-align: center;
+}
+
+.feed .text{
+  padding-top: 1em;
+  font-size: 1em;
+  line-height: 1.5;
+  text-align: left;
+}
+
+.prev_events{
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.prev_events p{
+  text-align: justify;
+}
+
+.prev_events h3{
+  padding-bottom: 1em;
+}
+
